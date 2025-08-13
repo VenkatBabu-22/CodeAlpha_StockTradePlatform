@@ -1,4 +1,4 @@
-#CodeAlpha Stock Trading Platform
+# CodeAlpha Stock Trading Platform
 CodeAlpha Java Programming Internship Task 2
 
 A console-based Java application that simulates stock market trading, enabling users to buy, sell, and track stocks in real time with a virtual portfolio.
