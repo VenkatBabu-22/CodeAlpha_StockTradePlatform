@@ -3,9 +3,9 @@ A Java console-based application that simulates a simple stock trading environme
 
 Features:
 - View simulated stock prices for popular companies:
-1.AAPL (Apple)
-2.GOOGL (Alphabet)
-3.AMZN (Amazon)
+1.AAPL 
+2.GOOGL
+3.AMZN
 - Buy and sell stocks
 - Track portfolio balance and calculate profit/loss
 - File-based data storage for saving and loading trading sessions
