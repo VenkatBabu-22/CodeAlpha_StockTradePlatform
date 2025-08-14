@@ -1,13 +1,17 @@
 # CodeAlpha_StockTradingPlatform
-CodeAlpha Java Programming Internship Task 2
+A Java console-based application that simulates a simple stock trading environment. Users can view stock prices, execute trades, and track their portfolio performance. Data is persisted using file storage so progress can be resumed.
 
-A console-based Java application that simulates stock market trading, enabling users to buy, sell, and track stocks in real time with a virtual portfolio.
 Features:
- - View a list of available stocks with current prices
- - Buy and sell stocks with virtual funds
- - Track portfolio performance and balance updates
- - Price updates simulated for a dynamic market feel
- - Clean OOP-based design for scalability and maintainability
- - Uses ArrayList and HashMap for storing stock data and user portfolios
+- View simulated stock prices for popular companies:
+1.AAPL (Apple)
+2.GOOGL (Alphabet)
+3.AMZN (Amazon)
+- Buy and sell stocks
+- Track portfolio balance and calculate profit/loss
+- File-based data storage for saving and loading trading sessions
 
-This project showcases Java programming, data handling, and basic financial logic while simulating a realistic trading experience without connecting to live markets.
+Tech Stack
+- Language: Java
+- Concepts: Object-Oriented Programming (OOP)
+- Interface: Console-based user interaction
+- Storage: File I/O for persistence
